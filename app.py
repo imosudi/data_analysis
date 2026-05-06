@@ -618,18 +618,7 @@ def layout():
                 textAlign='center',
             ),
         ),
-    # ── FOOTER ────────────────────────────
-        html.Div(
-            'FT Technikum Wien · Data Analysis · Winter Tourism Dashboard · 2015-2024',
-            style=dict(
-                padding='0 44px 32px',
-                background=C_INK,
-                fontSize='11px',
-                color='rgba(15,23,42,0.6)',
-                letterSpacing='0.3px',
-                textAlign='center',
-            ),
-        ),
+
     ], style=dict(
         background=C_INK,
         minHeight='100vh',
