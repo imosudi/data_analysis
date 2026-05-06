@@ -30,12 +30,12 @@ This Dash application analyzes Austrian tourism data from Statistics Austria's O
 ### 3. Monthly Overnight Stays Chart
 - **Description**: Bar chart showing monthly distribution, colored by season (Winter: blue, Summer: orange, Shoulder: gray). Peaks in Feb (158M) and Aug (200M).
 - **Screenshot**: [Monthly Chart Screenshot](screenshots/monthly_chart.png) - Interactive bar chart with annotations.
-![KPI Cards](assets/screenshots/kpi_cards.png)
+![Monthly](assets/screenshots/monthly_chart.png)
 
 ### 4. Regional Overnight Stays Chart
 - **Description**: Horizontal bar chart comparing winter vs. summer stays by province. Tyrol + Salzburg hold 61% of winter volume.
 - **Screenshot**: [Regional Chart Screenshot](assets/screenshots/regional_chart.png) - Grouped bars for each region.
-![KPI Cards](assets/screenshots/kpi_cards.png)
+![Regional](assets/screenshots/regional_chart.png)
 
 ### 5. Annual Trends Chart
 - **Description**: Line area chart showing winter vs. summer trends (2015-2024), with COVID annotation. Winter rebounds faster post-2021.
