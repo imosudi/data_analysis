@@ -1,4 +1,4 @@
-# FH Technikum Wien — Winter Tourism Data Analysis
+# FH Technikum Wien - Winter Tourism Data Analysis
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/pandas-%5E2.0-lightgrey?logo=pandas)
@@ -51,11 +51,11 @@ data_analysis/
 
 ## License
 
-This project is licensed under the **BSD 3-Clause License** — see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the **GPL-3.0 license** - see the [LICENSE](./LICENSE) file for details.
 
 ## Author
 
-**Mosudi Isiaka**  
+**Mosudi Isiaka O.**  
 📧 [mosudi.isiaka@gmail.com](mailto:mosudi.isiaka@gmail.com)  
 💻 [https://github.com/imosudi](https://github.com/imosudi)
 
