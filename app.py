@@ -19,9 +19,9 @@ from dash import Dash, html, dcc, Input, Output
 
 def load_and_merge():
     """Load all CSV files, join lookups, classify seasons."""
-    main         = pd.read_csv('uploads/4-OGD_touextsai_Tour_HKL_1.csv', sep=';')
-    countries_df = pd.read_csv('uploads/2-OGD_touextsai_Tour_HKL_1_C-C93-2.csv', sep=';')
-    regions_df   = pd.read_csv('uploads/3-OGD_touextsai_Tour_HKL_1_C-W96-0.csv', sep=';')
+    main         = pd.read_csv('dataset/4-OGD_touextsai_Tour_HKL_1.csv', sep=';')
+    countries_df = pd.read_csv('dataset/2-OGD_touextsai_Tour_HKL_1_C-C93-2.csv', sep=';')
+    regions_df   = pd.read_csv('dataset/3-OGD_touextsai_Tour_HKL_1_C-W96-0.csv', sep=';')
 
     # Decode year / month from YYYYMM season code
     main['year']  = main['C-SDB_TIT-0'].astype(str).str[:4].astype(int)
