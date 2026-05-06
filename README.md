@@ -11,11 +11,24 @@ A Dash dashboard for analysing Austrian tourism overnight stays from the Statist
 
 ## Getting Started
 
+### macOS / Linux
+
 ```bash
 git clone https://github.com/imosudi/data_analysis.git
 cd data_analysis
 python3 -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
+python app.py
+```
+
+### Windows (PowerShell)
+
+```powershell
+git clone https://github.com/imosudi/data_analysis.git
+cd data_analysis
+python -m venv venv
+venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python app.py
 ```
