@@ -43,11 +43,6 @@ data_analysis/
 
 3 directories, 11 files
 
-## Notes
-
-- The dashboard uses the Statistics Austria `OGD_touextsai_Tour_HKL_1` files to compute arrivals and overnight stays.
-- The hero section now includes the `fhtw-logo.png` asset.
-- The app is configured for a light mode interface.
 
 ## License
 
