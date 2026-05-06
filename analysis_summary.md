@@ -52,16 +52,13 @@ This Dash application analyzes Austrian tourism data from Statistics Austria's O
 - **Screenshot**: [Insights Card Screenshot](assets/screenshots/insights_card.png) - Text block with quote and list.
 ![Insights](assets/screenshots/insights_card.png)
 
-## How to Capture Screenshots
-
-1. Run the app: `python app.py`
-2. Open `http://127.0.0.1:8050` in your browser.
-3. Use browser dev tools or screenshot tool to capture each section.
-4. Save images in a `assets/screenshots/` folder for reference.
 
 ## Conclusion
 
 The dashboard demonstrates winter tourism's strong performance in Austria, supported by data-driven insights. Key takeaways include Tyrol's dominance, winter's resilience, and the Netherlands as a premier market. For full details, refer to the live app or source code.
+
+
+The PDF version was generated from Markdown using [WeasyPrint](https://weasyprint.org/)
 
 *Prepared by Mosudi Isiaka - FH Technikum Wien Data Analysis Project*</content>
 <parameter name="filePath">./analysis_summary.md
